@@ -4,3 +4,10 @@ Answer: We can consider using Git because it's a great way to share code
 with others in a team, so that multiple members could make any changes
 necessary to the code, and those changes can be easily tracked.
 
+Q2: What field could data science be applied to? Give and Example and 
+how it might help.
+
+Answer: Data science could be applied to the medical field. For example,
+we can use data science by analyzing tests involving a medical drug
+to determine if it is effective and safe to administer to patients.
+
