@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: We can consider using Git because it's a great way to share code 
+with others in a team, so that multiple members could make any changes
+necessary to the code, and those changes can be easily tracked.
+
